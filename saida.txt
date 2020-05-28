@@ -1,0 +1,25 @@
+Dados referentes a 3 paises
+
+Pais  1: Brasil
+Pais  2: Estados Unidos
+Pais  3: Argentina
+
+Dados referentes a 10 dias
+
+Numero total de contagios por pais
+Brasil: 7845
+Estados Unidos: 242960
+Argentina: 949
+
+Dia com maior numero de contagios por pais
+Brasil: 10 (1222)
+Estados Unidos: 10 (33725)
+Argentina: 5 (146)
+
+Dia com maior numero de contagios
+10: 35045
+
+Maior sequencia crescente de contagios por pais
+Brasil: 3
+Estados Unidos: 7
+Argentina: 3
